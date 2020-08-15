@@ -1,0 +1,100 @@
+body 
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background:#ffffff;
+    margin:0;
+    margin-left: 200px;
+    margin-right: 100px;
+    color:#51605c;
+}
+img 
+{ 
+    width:150px;
+}
+.atas
+{
+    padding: 4px;
+    display: inline-block;
+    width: 1000px;
+    margin: 2%;
+    text-align: center;
+    background: #e1e2e4;
+}
+ul 
+{
+    margin:0;padding:0;
+}
+ul 
+{
+    display:grid;
+    list-style-type:none;
+    margin:0;padding:0;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(2, auto);
+}
+ul li 
+{
+    padding: 2em;
+    color:#E98A8A;
+}
+ul li span 
+{
+    display:block;
+    font-size:1.4em;
+    margin-bottom:1em;
+}
+footer img
+{
+    width:50px;
+}
+li {box-sizing:border-box}
+
+
+.skil {
+  width: 100%; 
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  color: white;
+}
+
+.C {width: 70%; background-color: #850453;}
+.java {width: 60%; background-color: #850453;}
+.html {width: 30%; background-color: #850453;}
+.CSS {width: 25%; background-color: #850453;}
+
+.contact
+{
+    padding: 0 30px;
+    margin-block-end: 25px;
+}
+.contact h2
+{
+    margin-bottom: 10px;
+}
+.contact img
+{
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+.sosial-media1
+{
+    padding: 0 30px;
+    margin-block-end: 25px;
+}
+
+.sosial-media1
+{
+    margin-block-end: 35px;
+}
+.sosial-media1 img
+{
+    float: left;
+    height: 49px;
+    width: 49px;
+}
